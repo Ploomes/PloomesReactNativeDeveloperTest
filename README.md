@@ -49,12 +49,13 @@ Bonus question: Pq o código acima não compila?
 Chega de conversa, esses são os detalhes da tarefa que queremos ver você realizando 
 
 - [O que fazer?](#0-que-fazer-?)
+- [Material de Apoio](#Material-de-Apoio)
 
 ### O que fazer?
 
 Na Ploomes precisamos lidar com formularios, campos de formulários, campos padrão, campos dinâmicos... Enfim, uma infinitude campos [Fields](https://ploomes.github.io/PloomesDocs/content/fields/), [formulários](https://ploomes.github.io/PloomesDocs/content/forms/) e [campos de formulários](https://ploomes.github.io/PloomesDocs/content/fields/). Seu trabalho será lidar com essas 3 entidades. 
 
-Queremos que vc crie uma aplicação capaz de renderizar um formulário Ploomes e criar/editar uma entidade dentro da nossa aplicação. Parece suuuper simples (de certa forma é) mas tem alguns detalhes:
+Queremos que vc crie uma aplicação capaz de renderizar um formulário Ploomes e criar/editar uma [entidade](https://ploomes.github.io/PloomesDocs/content/entities/) dentro da nossa aplicação. Parece suuuper simples (de certa forma é) mas tem alguns detalhes.
 
 #### Requisítos mínimos
 
@@ -78,3 +79,7 @@ Todos os requisitos acima e:
 Todos os acima e:
 
  - O Ploomes possui um motor de fórmulas poderoso, configure pelo menos uma fórmula em um dos campos e faça ela funcionar.
+ 
+### Material de Apoio
+
+
