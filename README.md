@@ -48,6 +48,33 @@ Bonus question: Pq o código acima não compila?
 
 Chega de conversa, esses são os detalhes da tarefa que queremos ver você realizando 
 
-- [O que fazer](#0-que-fazer-?)
+- [O que fazer?](#0-que-fazer-?)
 
 ### O que fazer?
+
+Na Ploomes precisamos lidar com formularios, campos de formulários, campos padrão, campos dinâmicos... Enfim, uma infinitude campo (Fields), formulários (Forms) e campos de formulários (FormFields). Seu trabalho será lidar com essas 3 entidades. 
+
+Queremos que vc crie uma aplicação capaz de renderizar um formulário Ploomes e criar/editar uma entidade dentro da nossa aplicação. Parece suuuper simples (de certa forma é) mas tem alguns detalhes:
+
+#### Requisítos mínimos
+
+ - Aplicação React Native usando Typescript (we LOVE Typescript S2) ou Javascript
+ - Criar uma aplicação que retorne um formulário de Contato de acordo com o configurado na sua conta. 
+ - O formulário pode conter apenas campos padrão, mas deve conter pelo menos 5 tipos de campos diferentes. 
+ - Função de criação e edição de um contato da sua conta. (O mesmo componente deve realizar ambas ações)
+ 
+#### Requisítos 'Quero fazer mais'
+
+Todos os requisitos acima e:
+
+ - Usar Typescript.
+ - Ter campos dinâmicos no formulário.
+ - Utilizar o componente criado para a leitura (visualização) dos dados de um contato.
+ - Pelo menos 7 tipos de campos diferentes
+ - Criar o passo de criação 'offline' e verificar a conexão antes de enviar para a API (we're an offline first app)
+ 
+#### Requisítos 'This is SPARTAAAAA!!!' 
+
+Todos os acima e:
+
+ - O Ploomes possui um motor de fórmulas poderoso, configure pelo menos uma fórmula em um dos campos e faça ela funcionar.
