@@ -69,8 +69,7 @@ Queremos que vc crie uma aplicação capaz de renderizar um formulário do Ploom
  
 #### Requisítos 'Quero fazer mais'
 
-Todos os requisitos acima e:
-
+ - Todos os requisitos da seção [Requisitos Mínimos](#Requisítos-mínimos):
  - Usar Typescript.
  - Ter campos dinâmicos no formulário.
  - Utilizar o componente criado para a leitura (visualização) dos dados de um contato.
@@ -79,8 +78,9 @@ Todos os requisitos acima e:
  
 #### Requisítos 'This is SPARTAAAAA!!!' 
 
-Todos os acima e:
 
+
+ - Todos os requisitos da seção [Quero fazer mais](#Requisítos-'Quero-fazer-mais')
  - O Ploomes possui um motor de fórmulas poderoso, configure pelo menos uma fórmula em um dos campos e faça ela funcionar.
 
 ### Prazo
