@@ -1,6 +1,6 @@
 # PloomesReactNativeDeveloperTest
 
-## Bem vindo a Ploomes! (vc tá quase lá!)
+## Bem vindo a Ploomes! ( Vc está quase lá...digo...aqui! )
 
 <p>Parabéns! Vc chegou no ponto mais importante do nosso processo seletivo. Aqui na Ploomes nos REALMENTE acreditamos que precisamos de pessoas incríveis para ter um produto incrível. Se você poderia trabalhar nas maiores empresas do mundo, queremos que vc escolha trabalhar conosco!<p>
   
@@ -49,7 +49,10 @@ Bonus question: Pq o código acima não compila?
 Chega de conversa, esses são os detalhes da tarefa que queremos ver você realizando 
 
 - [O que fazer?](#0-que-fazer-?)
+- [Prazo](#prazo)
 - [Material de Apoio](#Material-de-Apoio)
+- [Ferramentas Sugeridas](#Ferramentas-Sugeridas)
+- [Ajuda](#Ajuda)
 
 ### O que fazer?
 
@@ -79,7 +82,23 @@ Todos os requisitos acima e:
 Todos os acima e:
 
  - O Ploomes possui um motor de fórmulas poderoso, configure pelo menos uma fórmula em um dos campos e faça ela funcionar.
- 
+
+### Prazo
+
+O Prazo de conclusão da tarefa é de 7 dias corridos a contar do dia em que iniciar o projeto. Contudo, queremos que sejam abertos caso precisem de um tempo a mais por algum motivo (Transparência é um dos nossos valores culturais!), e vms estudar caso a caso. **Evite entregar a tarefa incompleta**, preferimos extender 2-3 dias e ver o seu melhor do que perdermos a chance de ter um profissional World Class aqui por falta de tempo.
+
 ### Material de Apoio
+ - [Developers Ploomes](https://developers.ploomes.com/) - ferramenta de teste de chamadas a api.
+ - [Coleção de chamadas do Postman](https://www.getpostman.com/collections/33d47e1467a02c860334) - coleção de chamadas a api com exemplos.
+ - [PloomesDocs](https://ploomes.github.io/PloomesDocs/) - documentação do Ploomes tipos, relações e exemplos(em construção).
+ 
+### Ferramentas Sugeridas 
 
+#### PloomesTSTypes
 
+Biblioteca com vários tipos relevantes da Ploomes. Caso decida realizar a aplicação em typescript, essa biblioteca será sua melhor amiga.
+Veja a [documentação](https://github.com/Ploomes/PloomesTSTypes/blob/master/readme.md).
+
+### Ajuda
+
+Na Ploomes acreditamos no poder do trabalho em equipe, e achamos que isso deveria fazer parte também do processo seletivo. Por isso, você terá a sua disposição **um** slot de de uma hora com um dos membros da nossa equipe para utilizar durante o período de desenvolvimento do projeto (não vamos poder dar feedbacks, apenas ajudar você na compreensão do Ploomes em si). Fique a vontade para decidir qual o melhor momento para usar esse tempo, seja no início, meio ou final da tarefa. Quando estiver pronto para marcar esse horário, mande um email para tiago.provenzano@ploomes.com e marque o horário.
