@@ -57,7 +57,7 @@ Chega de conversa, esses são os detalhes da tarefa que queremos ver você reali
 
 ### O que fazer?
 
-Na Ploomes precisamos lidar com formularios, campos de formulários, campos padrão, campos dinâmicos... Enfim, uma infinitude [campos](https://ploomes.github.io/PloomesDocs/content/fields/), [formulários](https://ploomes.github.io/PloomesDocs/content/forms/) e [campos de formulários](https://ploomes.github.io/PloomesDocs/content/fields/). Sua missão, caso queira aceitar, será lidar com essas 3 entidades.
+Na Ploomes precisamos lidar com formularios, campos de formulários, campos padrão, campos dinâmicos... Enfim, uma infinitude de [campos](https://ploomes.github.io/PloomesDocs/content/fields/), [formulários](https://ploomes.github.io/PloomesDocs/content/forms/) e [campos de formulários](https://ploomes.github.io/PloomesDocs/content/fields/). Sua missão, caso queira aceitar, será lidar com essas 3 entidades.
 
 Queremos que vc crie uma aplicação capaz de renderizar um formulário do Ploomes e criar/editar uma [entidade](https://ploomes.github.io/PloomesDocs/content/entities/) dentro da nossa aplicação. Parece suuuper simples (de certa forma é) mas tem alguns detalhes.
 
