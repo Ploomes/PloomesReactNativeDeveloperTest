@@ -85,7 +85,7 @@ Queremos que vc crie uma aplicação capaz de renderizar um formulário do Ploom
 
 ### Prazo
 
-O Prazo de conclusão da tarefa é de 7 dias corridos a contar do dia em que iniciar o projeto. Contudo, queremos que sejam abertos caso precisem de um tempo a mais por algum motivo (Transparência é um dos nossos valores culturais!), e vms estudar caso a caso. **Evite entregar a tarefa incompleta**, preferimos extender 2-3 dias e ver o seu melhor do que perdermos a chance de ter um profissional World Class aqui por falta de tempo.
+O Prazo de conclusão da tarefa é de 7 dias corridos a contar do dia em que iniciar o projeto. Contudo, queremos que seja aberto caso precise de um tempo a mais por algum motivo (Transparência é um dos nossos valores culturais!), e vms estudar caso a caso. **Evite entregar a tarefa incompleta**, preferimos extender 2-3 dias e ver o seu melhor do que perdermos a chance de ter um profissional World Class aqui por falta de tempo.
 
 ### Material de Apoio
  - [Developers Ploomes](https://developers.ploomes.com/) - ferramenta de teste de chamadas a api.
