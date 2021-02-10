@@ -2,7 +2,7 @@
 
 ## Bem vindo a Ploomes! ( Vc está quase lá...digo...aqui! )
 
-<p>Parabéns! Vc chegou no ponto mais importante do nosso processo seletivo. Aqui na Ploomes nos REALMENTE acreditamos que precisamos de pessoas incríveis para ter um produto incrível. Se você poderia trabalhar nas maiores empresas do mundo, queremos que vc escolha trabalhar conosco!<p>
+<p>Parabéns! Vc chegou no ponto mais importante do nosso processo seletivo. Aqui na Ploomes nos REALMENTE acreditamos que precisamos de pessoas incríveis para ter um produto incrível. Se você tem potencial para trabalhar nas maiores empresas de tecnologia do mundo, queremos que vc escolha trabalhar conosco!<p>
   
 Agora é a sua oportunidade de nos mostrar que tem essa capacidade  "World Class". 
 
