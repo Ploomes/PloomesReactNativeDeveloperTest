@@ -57,7 +57,7 @@ Chega de conversa, esses são os detalhes da tarefa que queremos ver você reali
 
 ### O que fazer?
 
-Na Ploomes precisamos lidar com formularios, campos de formulários, campos padrão, campos dinâmicos... Enfim, uma infinitude [campos](https://ploomes.github.io/PloomesDocs/content/fields/), [formulários](https://ploomes.github.io/PloomesDocs/content/forms/) e [campos de formulários](https://ploomes.github.io/PloomesDocs/content/fields/). Seu missão, caso queira aceitar, será lidar com essas 3 entidades.
+Na Ploomes precisamos lidar com formularios, campos de formulários, campos padrão, campos dinâmicos... Enfim, uma infinitude [campos](https://ploomes.github.io/PloomesDocs/content/fields/), [formulários](https://ploomes.github.io/PloomesDocs/content/forms/) e [campos de formulários](https://ploomes.github.io/PloomesDocs/content/fields/). Sua missão, caso queira aceitar, será lidar com essas 3 entidades.
 
 Queremos que vc crie uma aplicação capaz de renderizar um formulário do Ploomes e criar/editar uma [entidade](https://ploomes.github.io/PloomesDocs/content/entities/) dentro da nossa aplicação. Parece suuuper simples (de certa forma é) mas tem alguns detalhes.
 
@@ -78,8 +78,6 @@ Queremos que vc crie uma aplicação capaz de renderizar um formulário do Ploom
  - Criar o passo de criação 'offline' e verificar a conexão antes de enviar para a API (we're an offline first app)
  
 #### Requisítos 'This is SPARTAAAAA!!!' 
-
-
 
  - Todos os requisitos da seção [Quero fazer mais](#Requisítos-'Quero-fazer-mais')
  - O Ploomes possui um motor de fórmulas poderoso, configure pelo menos uma fórmula em um dos campos e faça ela funcionar.
@@ -102,7 +100,7 @@ Veja a [documentação](https://github.com/Ploomes/PloomesTSTypes/blob/master/re
 
 ### Ajuda
 
-Na Ploomes acreditamos no poder do trabalho em equipe, e achamos que isso deveria fazer parte também do processo seletivo. Por isso, você terá a sua disposição **um** slot de de uma hora com um dos membros da nossa equipe para utilizar durante o período de desenvolvimento do projeto (não vamos poder dar feedbacks, apenas ajudar você na compreensão do Ploomes em si). Fique a vontade para decidir qual o melhor momento para usar esse tempo, seja no início, meio ou final da tarefa. Quando estiver pronto para marcar esse horário, mande um email para tiago.provenzano@ploomes.com e marque o horário.
+Na Ploomes acreditamos no poder do trabalho em equipe, e achamos que isso deveria fazer parte também do processo seletivo. Por isso, você terá a sua disposição **um** slot de uma hora com um dos membros da nossa equipe para utilizar durante o período de desenvolvimento do projeto (não vamos poder dar feedbacks, apenas ajudar você na compreensão do Ploomes em si). Fique a vontade para decidir qual o melhor momento para usar esse tempo, seja no início, meio ou final da tarefa. Quando estiver pronto para marcar esse horário, mande um email para tiago.provenzano@ploomes.com e marque o horário.
 
 Caso haja algum problema mais urgente ou que pareça ser do nosso lado, entre em contato com esse email para nos comunicarmos (uso ilimitado, mas pf só use nos casos realmente necessários).
 
