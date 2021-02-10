@@ -53,6 +53,7 @@ Chega de conversa, esses são os detalhes da tarefa que queremos ver você reali
 - [Material de Apoio](#Material-de-Apoio)
 - [Ferramentas Sugeridas](#Ferramentas-Sugeridas)
 - [Ajuda](#Ajuda)
+- [Url Api](#url-api)
 
 ### O que fazer?
 
@@ -102,3 +103,11 @@ Veja a [documentação](https://github.com/Ploomes/PloomesTSTypes/blob/master/re
 ### Ajuda
 
 Na Ploomes acreditamos no poder do trabalho em equipe, e achamos que isso deveria fazer parte também do processo seletivo. Por isso, você terá a sua disposição **um** slot de de uma hora com um dos membros da nossa equipe para utilizar durante o período de desenvolvimento do projeto (não vamos poder dar feedbacks, apenas ajudar você na compreensão do Ploomes em si). Fique a vontade para decidir qual o melhor momento para usar esse tempo, seja no início, meio ou final da tarefa. Quando estiver pronto para marcar esse horário, mande um email para tiago.provenzano@ploomes.com e marque o horário.
+
+Caso haja algum problema mais urgente ou que pareça ser do nosso lado, entre em contato com esse email para nos comunicarmos (uso ilimitado, mas pf só use nos casos realmente necessários).
+
+### Url da api
+
+Durante sua atividade você vai utilizar um ambiente separado de desenvolvimento (criado para você!). A url da api está no email em que enviamos este link para você.
+
+## Boa sorte!!!
